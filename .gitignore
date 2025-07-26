@@ -1,0 +1,36 @@
+# Gradle build files
+.gradle/
+build/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+out/
+
+# Allure reports
+allure-results/
+allure-report/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Environment or config secrets
+.env
+*.properties
+
+# VSCode (if applicable)
+.vscode/
+
+# OS-specific
+ehthumbs.db
+Icon?
