@@ -58,7 +58,7 @@ Visuals from test executions are provided below to help understand the test flow
 ---
 
 ### 🎥 Automation Video
-  https://github.com/user-attachments/assets/8f713161-846f-493c-aed8-054d834bde14
+  https://github.com/user-attachments/assets/2f994643-0511-4e33-8583-d08f91bee6fd
 
 
 ---
