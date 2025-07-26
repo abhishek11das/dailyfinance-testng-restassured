@@ -1,6 +1,5 @@
 # 🔍 DailyFinance RestAssured Test Suite
-This project contains automated tests for the [DailyFinance](https://dailyfinance.roadtocareer.net/) application.  
-The tests are implemented using **RestAssured** and **TestNG** to validate key user flows and functionalities through API calls.
+This project contains automated tests for the [DailyFinance](https://dailyfinance.roadtocareer.net/) application. The tests are implemented using **RestAssured** and **TestNG** to validate key user flows and functionalities through API calls.
 
 
 ## 🧪 Project Overview
